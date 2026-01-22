@@ -9,35 +9,34 @@
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2027.",
     "location": { "address": "", "postalCode": "96706", "city": "Ewa Beach", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "Ahron4": "mmaluhia", "url": "http://github.com/Ahron4" },
+      { "network": "linkedin", "ahron4": "mollymaluhia", "url": "http://linkedin.com/in/ahron4" },
+      { "network": "instagram", "username": "n_ahron", "url": "http://instagram.com/n_ahron" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
+    { "name": "IT Support" },
+    { "name": "Generative AI" },
+    { "name": "Computer Vision" },
     { "name": "Robotics" },
     { "name": "3D Graphics" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "HTML", "CSS", "Typescript", "Python" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "Ubuntu", "Git/GitHub", "Windows 10/11", "UNIX" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring, 2027)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2023-08-21",
       "endDate": "Present",
       "courses": [
       ]
