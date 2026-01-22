@@ -14,7 +14,7 @@ summary: "Madlibs is a personal project that I created to help 6th - 12th grader
 ---
 
 <div class="text-center p-4">
-  <img width="400px" src="../img/madlibs/demo.jpg" class="img-thumbnail" >
+  <img width="800px" src="../img/madlibs/demo.jpg" class="img-thumbnail" >
 </div>
 
 ICSpark is an organization and one of the specialized interest groups (SIGs) within ACM Manoa, to provide motivating 6th - 12th graders with a fun nonintimindating coding environment via coding mentorship from UH undergraduate students.
