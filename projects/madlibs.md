@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/madlibs/madlibs_square.png
 title: "Madlibs"
 date: 2025
 published: true
