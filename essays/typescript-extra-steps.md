@@ -19,5 +19,10 @@ I would like to say that it has really been a while (really!) since I was able t
 
 ## New Skill Unlocked: TypeScript
 
-After a few semesters of writing pesudocode, I kind of lost touch on my web development fundamental including HTML, CSS, and JavaScript, but thankfully, after a comprehensive review of these fundamental through YouTube tutorials, Khan Academy, and FreeCodeCamp, I was able to be back in the game and get all caught up. When we were first introduced to TypeScript for the first time, I was ready to learn all the syntaxes 
+After a few semesters of writing pseudocode, I kind of lost touch with my web development fundamental including HTML, CSS, and JavaScript, but thankfully, after a comprehensive review of these fundamentals through YouTube tutorials, Khan Academy, and FreeCodeCamp, I was able to get back in the game and get all caught up. When we were first introduced to TypeScript for the first time, I was ready to learn all the syntaxes, coding habits, and shortcut, but after noticing that TypeScript is a superset of JavaScript I was actually relieved since I don't need to learn a whole new lanague, but rather brush up on my JavaScript and ES6 skills so that I can be an effective TypeScript programmer.
+
+## Honorable Mention: JavaScript ES6
+
+Oh! I forgot to metioned 
+
 
