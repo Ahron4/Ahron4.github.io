@@ -23,6 +23,19 @@ After a few semesters of writing pseudocode, I kind of lost touch with my web de
 
 ## Honorable Mention: JavaScript ES6
 
-Oh! I forgot to metioned 
+Oh! I forgot to metioned how I was also introduced to JavaScript ES6 for the first time which apparently makes things really useful to us especially with the `let` and `const` keywords to help replace the old `var` keywords in ES5. We were also introcuted to shorter syntaxes like arrow functions in which, to my understanding, greatly changes codes like this:
+
+```js
+function add(a,b) {
+  returng a + b;
+}
+```
+ to this:
+
+ ```js
+const add = (a,b) => a + b;
+```
+
+Which is a pretty neat shortcut especially during the workouts of the days (WODs) which I will talk about later.
 
 
