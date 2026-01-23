@@ -11,7 +11,7 @@ labels:
   - Web Development
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/typescript-extra-steps/coding.png">
 
 ## Writing Pesudocode to Writing Actual Code
 
