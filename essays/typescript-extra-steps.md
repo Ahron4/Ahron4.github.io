@@ -27,7 +27,7 @@ Oh! I forgot to metioned how I was also introduced to JavaScript ES6 for the fir
 
 ```js
 function add(a,b) {
-  returng a + b;
+  return a + b;
 }
 ```
  to this:
@@ -36,6 +36,9 @@ function add(a,b) {
 const add = (a,b) => a + b;
 ```
 
-Which is a pretty neat shortcut especially during the workouts of the days (WODs) which I will talk about later.
+Which is a pretty neat shortcut, especially during the workouts of the days (WODs), which I will talk about later. There were other keywords that also interest me like the spread and rest operators, promisies, and destructuring assignment, which was pretty confusing to me but I beleive that with enough practice and understanding more about these features, I could maybe one day impress my future employer during a technical interview.
 
+## Athletic Software Engineering
 
+This was a really interesting pedagogy where I have seen many professors use the traditional teaching approach and recently a flipped classroom approach, where I was expecting ICS 314 to be one or the other, but that is not the case. Instead, the concept of ** Athletic Software Engineering ** involves just putting students through a high-intensity stressful approach to where students design and solve a problem
+accurately and efficiently within the time limit. These problems are also know as ** Workouts of the Day ** or WODs for short. In my opinion, this kind of approach is not for me since being pressured by time causes me to think about the time limit during these WODs. I am not sure, but this is a very new approach that I am not used to, but I believe that understanding my weaknesses and mistakes might help improve my time during these WODs. As I continue my computer science journey, perhaps this kind of pedagogy might one day save me time on various problems I encounter in my journey, either through problem solving or even debugging huge amounts of code.
