@@ -23,4 +23,9 @@ Mablibs is a popular and funny word game where players fill in the blanks withou
 
 This project mainly focuses on teaching these students the basic concepts of JavaScript by implementing missing functions, statements, and variables, to create a working Madlibs game that uses alerts as user inputs and changes the text based on the input. The overall difficult part is trying to make the implementation fun for the students but also make it kind of easy in a way they understand basic JavaScript syntax.
 
+The difficult part of this project was creating the project itself. These students come from diverse programming backgrounds, and we needed to make a project that can also reach across students with little to no programming experience. Once I implemented my project, I had to decide which snippets of code to leave out for the students and which to leave in based on the difficulty. Not only that, but creating a comprehensive README was also difficult since I needed to put into words that the students can understand and easy to implement the missing code. Overall, it was a difficult process to make, but with a good outcome of students learning more on JavaScript.
+
+My source code for my project can be found here called [Madlibs](https://github.com/Ahron4/Mad-Libs).
+
 You can learn more about us at our [ICSpark Webpage](https://icspark.github.io/).
+
