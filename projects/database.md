@@ -13,9 +13,8 @@ summary: "Implementing a Bank Database and Records for ICS 212 Program Structure
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
+  <img width="200px" src="../img/database/Database.png" class="img-thumbnail" >
+  <img width="200px" src="../img/database/Database 2.png" class="img-thumbnail" >
 </div>
 
 This was one of my projects that I was very proud of, but I had a very hard time understanding. For some context, this was a project and assignment for my ICS 212 Program Structure class, where we spent the majority of the semester learning the C programming language, its syntax, and the documentation in order for us to create a final product of a look-alike bank database and records through command lines in UHUNIX.
