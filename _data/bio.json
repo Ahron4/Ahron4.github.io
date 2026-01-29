@@ -58,8 +58,8 @@
       "company": "McDonald's",
       "position": "Crew Member",
       "website": "",
-      "startDate": "2023-06",
-      "endDate": "2024-08",
+      "startDate": "2023-06-02",
+      "endDate": "2024-08-26",
       "summary": "Taking orders, cashiering, customer service",
       "highlights": [
         "Provides quick and accurate customer service",
@@ -73,7 +73,7 @@
       "organization": "ICSpark",
       "website": "https://icspark.github.io/",
       "position": "Mentor & Lecturer",
-      "startDate": "2024-08",
+      "startDate": "2024-08-26",
       "endDate": "Present",
       "summary": "Teaching 6th - 12th graders on basic web development fundamentals like HTML, CSS, and JavaScript.",
       "highlights": [
@@ -86,8 +86,8 @@
       "organization": "ICS-390-001: Computing Ethics for LAs",
       "website": "",
       "position": "Assistant Teaching Assistant (ATA)",
-      "startDate": "2025-08",
-      "endDate": "2025-12",
+      "startDate": "2025-08-25",
+      "endDate": "2025-12-16",
       "summary": "Assisting the TA as well as helping students with ICS 141/ICS 241 discrete math topics for CS.",
       "highlights": [
         "Provided contact hours for those who need additional help after class",
