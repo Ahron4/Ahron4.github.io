@@ -17,14 +17,14 @@
   "interests": [
     { "name": "IT Support" },
     { "name": "Generative AI" },
-    { "name": "Computer Vision" },
+    { "name": "Software Engineering" },
     { "name": "Robotics" },
     { "name": "Web Development" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "HTML", "CSS", "Typescript", "Python" ]
+      "keywords": [ "C", "C++", "Java", "JavaScript", "HTML", "CSS", "Typescript", "Python" ]
     },
     {
       "name": "Toolsets/OS",
@@ -44,70 +44,53 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "UH Department of Indo-Pacific Languages & Literature (IPLL)",
+      "position": "Office Assistant",
+      "website": "https://manoa.hawaii.edu/ipll/",
+      "startDate": "2026-28-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Office Assistant for IPLL",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Assists faculty in daily clerical needs",
+        "Creation of promotional material for the department programs"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "McDonald's",
+      "position": "Crew Member",
+      "website": "",
+      "startDate": "2023-06",
+      "endDate": "2024-08",
+      "summary": "Taking orders, cashiering, customer service",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Provides quick and accurate customer service",
+        "Effectively communicates with customers and other employees",
+        "Able to multitask during rush hours"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "ICSpark",
+      "website": "https://icspark.github.io/",
+      "position": "Mentor & Lecturer",
+      "startDate": "2024-08",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Teaching 6th - 12th graders on basic web development fundamentals like HTML, CSS, and JavaScript.",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Create and present lesson plans",
+        "Train new mentors to prepare them for mentoring during the spring semester",
+        "Communicating effectively with students"
       ]
     },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Academic Merit Scholarship",
+      "date": "2023-Present",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Merit Scholarship awarded to recognize incoming freshmen students enrolling in UH Manoa with a very strong academic high school record."
     },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
   ],
   "references": [
     {
