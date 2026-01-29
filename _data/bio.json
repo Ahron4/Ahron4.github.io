@@ -10,8 +10,7 @@
     "location": { "address": "", "postalCode": "96706", "city": "Ewa Beach", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "Ahron4", "url": "http://github.com/Ahron4" },
-      { "network": "linkedin", "username": "ahron4", "url": "http://linkedin.com/in/ahron4" },
-      { "network": "instagram", "username": "n_ahron", "url": "http://instagram.com/n_ahron" }
+      { "network": "linkedin", "username": "ahron4", "url": "http://linkedin.com/in/ahron4" }
     ]
   },
   "interests": [
