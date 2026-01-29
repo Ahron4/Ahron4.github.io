@@ -13,7 +13,7 @@ summary: "Implementing a Bank Database and Records for ICS 212 Program Structure
 ---
 
 <div class="text-center p-4">
-  <img width="530px" height="400px" src="../img/database/Database.png" class="img-thumbnail" >
+  <img width="520px" height="400px" src="../img/database/Database.png" class="img-thumbnail" >
   <img width="600px" height="600px" src="../img/database/Database 2.png" class="img-thumbnail" >
 </div>
 
