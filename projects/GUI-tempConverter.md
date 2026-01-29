@@ -107,5 +107,8 @@ root.mainloop()
 #Inspiration: https://www.geeksforgeeks.org/temperature-converter-using-tkinter/
 ```
 
+I wanted to show this project in particular since I always wanted to create really friendly GUI's to the users where I am very fascinated by websites that have a really great GUI or website in general. Take GitHub, for instance, their login page is really impressive and very "techie" in a way that it clearly shows what GitHub is, some famous organizations that use it and lots and lots of stats to show how good GitHub is. Another would be Apple's website, especially for the iPhone since all their small clips and images are very high quality, indicating that the iPhones must also be very high quality as well. Seeing these websites motivates me to continue my studies in web development so that I could be able to create really fancy webpages, impress users, and overall showcase my creative side for computer science. 
+
+
 Feel free to look at my other high school projects [here](https://github.com/Ahron4/Group-Projects).
 
