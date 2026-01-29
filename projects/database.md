@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/database/Database 3.png
+image: img/database/Database-3.png
 title: "ICS 212 Database Project"
 date: 2024
 published: true
