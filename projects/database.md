@@ -6,9 +6,10 @@ title: "ICS 212 Database Project"
 date: 2024
 published: true
 labels:
-  - C
-  - C++
+  - C/C++
   - Database
+  - UHUNIX
+  - Command Line
 summary: "Implementing a Bank Database and Records for ICS 212 Program Structure"
 ---
 
