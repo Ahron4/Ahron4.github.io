@@ -19,81 +19,52 @@ You may have heard the saying, either from a friend or your parents, "Think befo
 
 ## Coding and Learning Smart
 
-Coding and learning new programming languages and theory can be quite confusing, so it is no brainer that asking questions is the way to go. You can tell that people who "RTFM" or "STFW" as Eric Raymond calls it in is essay *How To Ask Questions The Smart Way* show how passionate and curious they are. What I mean is that they often research to see if a similar question hasn't been posted, and describe the problem and the overall goal they want to achieve. It tells readers like us that they tried to solve the problem to the best of their abilities but to no avail
+Coding and learning new programming languages and theory can be quite confusing, so it is no brainer that asking questions is the way to go. You can tell that people who "RTFM" or "STFW" as Eric Raymond calls it in is essay *How To Ask Questions The Smart Way* show how passionate and curious they are. What I mean is that they often research to see if a similar question hasn't been posted, then, instead of copying and pasting things like code snippets and very little details, they describe the problem and the overall goal they want to achieve. It tells readers like us that they tried to solve the problem to the best of their abilities and are looking for the community for help. Take Stack Overflow, for instance, it is a Q&A website designed for programmers and developers alike to ask questions on code, debugging help, and many more.
 
-In the following example, we examine the components of a decent question. In this case, the asker is trying to figure out a way to get the date of the previous month in Python.
-
-```
-Q: python date of the previous month
-
-I am trying to get the date of the previous month with python. Here is what i've tried:
-
-str( time.strftime('%Y') ) + str( int(time.strftime('%m'))-1 )
-
-However, this way is bad for 2 reasons: First it returns 20122 for the February of 2012 (instead of 201202) 
-and secondly it will return 0 instead of 12 on January.
-
-I have solved this trouble in bash with:
-
-echo $(date -d"3 month ago" "+%G%m%d")
-
-I think that if bash has a built-in way for this purpose, then python, much more equipped, should provide something 
-better than forcing writing one's own script to achieve this goal. Of course i could do something like:
-
-if int(time.strftime('%m')) == 1:
-    return '12'
-else:
-    if int(time.strftime('%m')) < 10:
-        return '0'+str(time.strftime('%m')-1)
-    else:
-        return str(time.strftime('%m') -1)
-        
-I have not tested this code and i don't want to use it anyway (unless I can't find any other way:/)
-
-Thanks for your help!
-```
-
-While the heading of his question could be better, it does convey what he’s trying to figure out. Usually something as brief as “python date of previous month” is what other users would enter in as search terms on Google, making it easily found. Another good thing about the question is that it’s not just a question. The asker shows what he or she has done and that he or she has put in some effort to answer the question. And while it may not be as important as the question itself, the asker shows courtesy, which does increase the chance of getting an answer.
+In the following example, we examine the components of a decent question. In this case, someone is asking why scanf() in C leaves a newline character in the buffer.
 
 ```
-A: datetime and the datetime.timedelta classes are your friend.
+Q: I have the following program:
 
-1. find today
-2. use that to find the first day of this month.
-3. use timedelta to backup a single day, to the last day of the previous month.
-4. print the YYYYMM string you're looking for.
+int main(int argc, char *argv[])
+{
+    int a, b;
+    char c1, c2;
+    printf("Enter something: ");
+    scanf("%d", &a); // line 1
+    printf("Enter other something: ");
+    scanf("%d", &b); // line 2
 
-Like this:
+    printf("Enter a char: ");
+    scanf("%c", &c1); // line 3
+    printf("Enter another char: ");
+    scanf("%c", &c2); // line 4
 
- >>> import datetime
- >>> today = datetime.date.today()
- >>> first = datetime.date(day=1, month=today.month, year=today.year)
- >>> lastMonth = first - datetime.timedelta(days=1)
- >>> print lastMonth.strftime("%Y%m")
- 201202
- >>>
+    printf("Done"); // line 5
+
+    system("PAUSE");
+
+    return 0;
+}
+
+As I read in the C book, the author says that scanf() left a newline character in the buffer, therefore, the program does not stop at line 4 for user to enter the data, rather it stores the new line character in c2 and moves to line 5.
+
+Is that right?
+
+However, does this only happen with char data types? Because I did not see this problem with int data types as in line 1, 2, 3. Is it right?
+```
+I would say that this is a very decent question since they acknowledge that they read the documentation and are trying to explain the situation to the community. They explain what they know and what they tried, giving the community a better grasp of the situation. This post has gotten 7 answers with a variety of different answers. The person explaining their question gives us context that they have some knowledge of the C programming language, which saves us a lot of time and gets straight to the point of explaining the alternatives to the question. 
+
+## Act first, ask questions later
+
+Here is what I would say is a non-decent question:
 
 ```
- 
-The asker received six possible answers, and he or she was successful in inciting discussion from multiple users. The answers themselves were clear and were devoid of the rumored sarcasm and hostility of “hackers.” Since I myself have referenced this page and found it useful, I can confidently say that it is a good question.
+Q: What is a NullPointerException, and how do I fix it?
 
-## The foolproof way to get ignored.
+What are Null Pointer Exceptions (java.lang.NullPointerException) and what causes them?
 
-While there are decent questions that benefit everyone, there are those one can ask to create an entirely different effect. In the following example, a user asks how he would, in short, create a desktop application with Facebook.
-
-```
-Q: Facebook Desktop Notifier
-
-I am a beginner programmer that have never used anything other than what's included in a language.
-
-I am trying to create a desktop application that notifies me anytime I get an update onfacebook. 
-How should go about doing this? Thanks in advance.
-
-edit Sorry I was not clear. Is there any way to make a DESKTOP application with facebook?
+What methods/tools can be used to determine the cause so that you stop the exception from causing the program to terminate prematurely?
 ```
 
-A simple “yes” would have answered the question, but we know that’s not the sort of answer he or she is looking for. Fortunately, someone kindly responded with a link to Facebook’s developer website. The asker should have done more research on his or her potential project. Then further down the road, he or she could have asked more specific and detailed questions that wouldn’t require a thousand-paged response for a sufficient answer.
-
-## Conclusion
-
-When we rely on others’ generosity and expertise to provide answers to our questions, it should hold that the question we ask should be one that leads to efficient and effective help that not only benefits us, but also the people we ask and others who might ask the same question in the future. Thus, if you have a question… make it a smart one! Asking questions may not always get you the best answer, but asking them in a way that will make others want to answer them will increase the success of finding a good solution and make it a positive experience on all sides.
+Surprisingly, 12 people answered this question, but it just shows an overall non-smart question since there is documentation on these types of exceptions. All you have to do is search it up on Google, and you will see documentation from Oracle that explains what a NullPointerException is. Granted, I may not know this person's overall programming experience, and perhaps needed more explanation on these exceptions, but they could have at least included a little bit of context before asking the community for help, since this feels like someone asking the community to do their homework for them. I know it sounds harsh but I am just being honest that you will learn way more if you tried it yourself. If you haven't, then what is the point of learning? 
