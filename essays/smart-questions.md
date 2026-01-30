@@ -1,10 +1,10 @@
 ---
 layout: essay
 type: essay
-title: "Smart Questions, Good Answers"
+title: "Smart Questions Practically Answer Themselves"
 # All dates must be YYYY-MM-DD format!
-date: 2015-09-08
-published: false
+date: 2026-01-29
+published: true
 labels:
   - Questions
   - Answers
@@ -13,13 +13,13 @@ labels:
 
 <img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/rtfm.png">
 
-## Is there such thing as a stupid question?
+## Think before you do or something like that
 
-I’ve had instructors address a whole class and say, “There’s no such thing as a stupid question.” I now know that is in fact not true because I’ve challenged the statement and received the appropriate dumb-stricken, annoyed look. There are definitely stupid questions, and along with that, usually unhelpful answers. Though we all might be guilty of being callous and making people victim to our poorly formed questions, there are steps we can take to ask smarter questions that hopefully don’t illicit the dreaded “rtfm” or “stfw” response.
+You may have heard the saying, either from a friend or your parents, "Think before you speak," where you consider how your words affect others, checking your tone, and thinking of what to say to avoid any misunderstandings. Even though it seems easy enough to understand and learn, it gets kind of difficult when you are in the heat of the moment during a conversation with someone or towards groups of people. I feel like it is an essential skill to acquire, especially if you are working in customer service-related jobs, such as in the food or retail industry. It takes patience to think about what you want to say and asking good questions since it could make it or break your interaction with someone.
 
-## What’s a smart question?
+## Coding and Learning Smart
 
-Stack Overflow, a question and answer site for programmers, is a great resource for anyone who may have issues with code or who may simply want to learn new or different methods of doing something. There I found examples of good questions and bad questions, which could probably be improved.
+Coding and learning new programming languages and theory can be quite confusing, so it is no brainer that asking questions is the way to go. You can tell that people who "RTFM" or "STFW" as Eric Raymond calls it in is essay *How To Ask Questions The Smart Way* show how passionate and curious they are. What I mean is that they often research to see if a similar question hasn't been posted, and describe the problem and the overall goal they want to achieve. It tells readers like us that they tried to solve the problem to the best of their abilities but to no avail
 
 In the following example, we examine the components of a decent question. In this case, the asker is trying to figure out a way to get the date of the previous month in Python.
 
