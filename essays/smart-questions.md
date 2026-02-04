@@ -21,7 +21,7 @@ You may have heard the saying, either from a friend or your parents, "Think befo
 
 Coding and learning new programming languages and theory can be quite confusing, so it is no brainer that asking questions is the way to go. You can tell that people who "RTFM" or "STFW" as Eric Raymond calls it in is essay *How To Ask Questions The Smart Way* show how passionate and curious they are. What I mean is that they often research to see if a similar question hasn't been posted, then, instead of copying and pasting things like code snippets and very little details, they describe the problem and the overall goal they want to achieve. It tells readers like us that they tried to solve the problem to the best of their abilities and are looking for the community for help. Take Stack Overflow, for instance, it is a Q&A website designed for programmers and developers alike to ask questions on code, debugging help, and many more.
 
-In the following example, we examine the components of a decent question. In this case, someone is asking why scanf() in C leaves a newline character in the buffer.
+In the following example, here is I would say, a "decent" question where someone is asking why scanf() in C leaves a newline character in the buffer.
 
 ```
 Q: I have the following program:
