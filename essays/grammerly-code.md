@@ -10,7 +10,7 @@ labels:
   - VSCode
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="../img/grammarly-code/ESLint.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/grammarly-code/ESLint.png">
 
 ## ESLi 101: Introduction to ESLint on VS Code Part I
 
