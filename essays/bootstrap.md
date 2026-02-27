@@ -11,7 +11,7 @@ labels:
   - CSS
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="../img/bootstrap/Jade Dynasty Recreation.png">
+<img width="600px" class="rounded float-start pe-4" src="../img/bootstrap/Jade Dynasty Recreation.png">
 
 As a person who has known basic web development skills of HTML, CSS, and JavaScript for quite some time now, I could say that working with Bootstrap 5 has become a whole new level in how we design websites. It might be kind of boring to you guys now, but for me, it was like discovering fire for the first time. It was a really interesting yet complicated way to design a website, and the best way to understand how Bootstrap works it to simply replicate an already existing website. For me, it was a fun way to "get your feet wet" in a way to understand how bootstrap syntax works and notice any pattern from within it.
 
@@ -19,7 +19,7 @@ As a person who has known basic web development skills of HTML, CSS, and JavaScr
 
 As I got more into Bootstrap 5, things got complicated really fast, and the next thing I know, we were recreating websites of our choice and solidifying our knowledge with really cool webpages that were difficult to implement in Bootstrap. The image below is my recreation of implementing the Maui Brewing Co front page. There are still some major differences compared to the actual front page website, but overall I felt pround in learning that Bootstrap can make really good looking websites like the one below. I hope that one day I will be able to create really nice webpages that are user-friendly and visually appealing to the audience. Websites like VS Code, Github, or even Foxglove inspired me to continue and learn more about what software engineering has to offer.
 
-<img width="100px" class="rounded float-start pe-4" src="../img/bootstrap/Maui Brewing Recreation.png">
+<img width="600px" class="rounded float-start pe-4" src="../img/bootstrap/Maui Brewing Recreation.png">
 
 ## The Substitution
 
