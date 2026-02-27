@@ -19,7 +19,7 @@ labels:
 
 ## The Realization
 
-When I got more into Bootstrap 5, things got complicated really fast, and the next thing I know, we were recreating websites of our choice and solidifying our knowledge with really cool webpages that were difficult to implement in Bootstrap. The image on the left is my recreation of implementing the Maui Brewing Co front page. There are still some major differences compared to the actual front page website, but overall I felt pround in learning that Bootstrap can make really good looking websites like the one on the left. I hope that one day I will be able to create really nice webpages that are user-friendly and visually appealing to the audience. Websites like VS Code, Github, or even Foxglove inspired me to continue and learn more about what software engineering has to offer.
+When I got more into Bootstrap 5, things got complicated really fast, and the next thing I know, we were recreating websites of our choice and solidifying our knowledge with really cool webpages that were difficult to implement in Bootstrap. The image on the bottom is my recreation of implementing the Maui Brewing Co front page. There are still some major differences compared to the actual front page website, but overall I felt pround in learning that Bootstrap can make really good looking websites like the one below. I hope that one day I will be able to create really nice webpages that are user-friendly and visually appealing to the audience. Websites like VS Code, Github, or even Foxglove inspired me to continue and learn more about what software engineering has to offer.
 
 <img width="600px" class="rounded float-start pe-4" src="../img/bootstrap/Maui Brewing Recreation.png">
 
