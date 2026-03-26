@@ -12,7 +12,7 @@ labels:
   - Bootstrap 5
 ---
 
-<img width="600px" class="rounded float-start pe-4" src="../img/finalProject/Checklist.png">
+<img width="200px" class="rounded float-start pe-4" src="../img/finalProject/Checklist.png">
 
 ## I'll Do It Later
 
