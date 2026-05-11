@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "AI in Software Engineering"
+title: "Meet the Prompt Engineer"
 # All dates must be YYYY-MM-DD format!
 date: 2026-05-10
 published: true
