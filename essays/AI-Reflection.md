@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Igniting the fire"
+title: "AI in Software Engineering"
 # All dates must be YYYY-MM-DD format!
 date: 2026-05-10
 published: true
@@ -10,7 +10,7 @@ labels:
   - AI
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="../img/AI-Reflection/claude_logo.jpeg">
+<img width="200px" class="rounded float-start pe-4" src="../img/AI-Reflection/claude_logo.jpeg">
 
 # I. Introduction
 
