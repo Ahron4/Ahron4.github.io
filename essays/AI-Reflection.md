@@ -10,7 +10,7 @@ labels:
   - AI
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/AI-Reflection/claude_logo.jpeg">
+<img width="300px" class="rounded float-start pe-4" src="../img/AI-Reflection/claude_logo.jpeg">
 
 # I. Introduction
 
