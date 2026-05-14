@@ -33,11 +33,37 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Fall 2027)",
+      "area": "Computer Science, Minor in Mathematics (expected Fall 2027)",
       "studyType": "B.S.",
       "startDate": "2023-08-21",
       "endDate": "Present",
       "courses": [
+        "ICS 111: Introduction to Computer Science I",
+        "ICS 141: Discrete Mathematics for Computer Science",
+        "ICS 241: Discrete Mathematics for Computer Science II",
+        "ICS 211: Introduction to Computer Science II",
+        "ICS 212: Program Structure",
+        "ICS 311: Algorithms",
+        "ICS 314: Software Engineering",
+        "ICS 355: Security & Trust",
+        "ICS 390: Computing Ethics",
+        "MATH 251A: Accelerated Calculus I",
+        "MATH 242: Calculus II",
+        "MATH 243: Calculus III",
+        "MATH 307: Linear Algebra",
+        "MATH 321: Introduction to Advanced Mathematics",
+        "MATH 407: Numerical Analysis"
+      ]
+    },
+    {
+      "institution": "Institute Français des Alpes, Annecy, France",
+      "area": "French Language & Culture (Summer 2025)",
+      "studyType": "Certificate of Completion",
+      "startDate": "2025-06-28",
+      "endDate": "2025-08-02",
+      "courses": [
+        "FR 258: Second Level French Abroad",
+        "FR 259: Second Level French Abroad"
       ]
     }
   ],
