@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/student-events/UH_Manoa
+image: img/student-events/UH_Manoa.jpeg
 title: "Student Event Hub"
 date: 2026
 published: true
@@ -13,10 +13,11 @@ labels:
 summary: "A centralized bulletin board for the UH Community"
 ---
 
-<div class="text-center p-4">
+<div class="d-flex justify-content-center gap-3 p-4">
   <img width="600px" height="400px" src="../img/student-events/intro.png" class="img-thumbnail" >
   <img width="600px" height="400px" src="../img/student-events/admin.png" class="img-thumbnail" >
   <img width="600px" height="400px" src="../img/student-events/features.png" class="img-thumbnail" >
+    <img width="600px" height="400px" src="../img/student-events/all-events.png" class="img-thumbnail" >
 </div>
 
 Student Event Hub is the name of our organization where me and three of my teammates created a web application to create a centralized bulletin board for the UH Community. This was part of our ICS 314, software engineering final project where we had about four week to implement a fully functioning application that is split into three milestones that we had to present in front of the class to show progress being made.
