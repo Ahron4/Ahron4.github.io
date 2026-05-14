@@ -14,8 +14,8 @@
     ]
   },
   "interests": [
-    { "name": "IT Support" },
-    { "name": "Generative AI" },
+    { "name": "Information Technology" },
+    { "name": "Robotics" },
     { "name": "Software Engineering" },
     { "name": "Computer Vision" },
     { "name": "Web Development" }
@@ -40,9 +40,9 @@
       "courses": [
         "ICS 111: Introduction to Computer Science I",
         "ICS 141: Discrete Mathematics for Computer Science",
-        "ICS 241: Discrete Mathematics for Computer Science II",
         "ICS 211: Introduction to Computer Science II",
         "ICS 212: Program Structure",
+        "ICS 241: Discrete Mathematics for Computer Science II",
         "ICS 311: Algorithms",
         "ICS 314: Software Engineering",
         "ICS 355: Security & Trust",
@@ -79,6 +79,18 @@
         "Assists faculty/students in daily clerical needs (i.e., photocopying, spreadsheets, answering questions)",
         "Currently in training on learning to operate/utilize Cascade, the University of Hawai’i content management system (CMS) for our IPLL department website",
         "Creation of promotional material for the department programs"
+      ]
+    },
+    {
+      "company": "Virtual Student Federal Service (VSFS)",
+      "position": "Virtual Intern",
+      "website": "",
+      "startDate": "2024-09-02",
+      "endDate": "2025-05-30",
+      "summary": "Virtual internship to help standardize or improve physical/technical security policies",
+      "highlights": [
+        "Worked closely with intelligence professionals and mentors to drive potential change to physical/technical security policies across the U.S. Government",
+        "Helped in researching artificial intelligence relating to TEMPEST, side channel attacks (SCA), electromagnetic signals (EMS), etc."
       ]
     },
     {
