@@ -14,8 +14,7 @@ labels:
 
 As the Spring 2026 semester comes to a close, I am grateful and satisfied with the amount of content covered during my time in ICS 314: Software Engineering. Getting to know my tablemates, learning PostgreSQL, building my professional persona, and even doing an actual project using GitHub were all part of what made software engineering really enjoyable for me. This course hits the mark on all things introductory towards software engineering, which includes:
 
-
-
+<div style="clear: both;"></div>
 
 - Design
 - Implementation
