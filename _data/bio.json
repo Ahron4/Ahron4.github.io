@@ -6,7 +6,7 @@
     "email": "ahron4@hawaii.edu",
     "phone": "808-741-9182",
     "website": "https:/Ahron4.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2027.",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate Fall 2027.",
     "location": { "address": "", "postalCode": "96706", "city": "Ewa Beach", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "Ahron4", "url": "http://github.com/Ahron4" },
@@ -17,13 +17,13 @@
     { "name": "IT Support" },
     { "name": "Generative AI" },
     { "name": "Software Engineering" },
-    { "name": "Robotics" },
+    { "name": "Computer Vision" },
     { "name": "Web Development" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "JavaScript", "HTML", "CSS", "Typescript", "Python" ]
+      "keywords": [ "Java", "JavaScript", "HTML", "CSS", "Typescript", "Python", "Bootstrap 5", "React", "Node.js", "PostgreSQL" ]
     },
     {
       "name": "Toolsets/OS",
@@ -33,7 +33,7 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2027)",
+      "area": "Computer Science (expected Fall 2027)",
       "studyType": "B.S.",
       "startDate": "2023-08-21",
       "endDate": "Present",
@@ -50,7 +50,8 @@
       "endDate": "Present",
       "summary": "Office Assistant for IPLL",
       "highlights": [
-        "Assists faculty in daily clerical needs",
+        "Assists faculty/students in daily clerical needs (i.e., photocopying, spreadsheets, answering questions)",
+        "Currently in training on learning to operate/utilize Cascade, the University of Hawai’i content management system (CMS) for our IPLL department website",
         "Creation of promotional material for the department programs"
       ]
     },
@@ -62,9 +63,8 @@
       "endDate": "2024-08-26",
       "summary": "Taking orders, cashiering, customer service",
       "highlights": [
-        "Provides quick and accurate customer service",
-        "Effectively communicates with customers and other employees",
-        "Able to multitask during rush hours"
+        "Assisted with the drive-thru operations by multitasking between order-taking, cash handling, and rapid preparation of McCafe menu items to ensure wait times were under 90 seconds",
+        "Regularly extending 8-hour shifts to assist with closing procedures and coverage during understaffed shifts for the summer months."
       ]
     }
   ],
@@ -77,9 +77,9 @@
       "endDate": "Present",
       "summary": "Teaching 6th - 12th graders on basic web development fundamentals like HTML, CSS, and JavaScript.",
       "highlights": [
-        "Create and present lesson plans",
-        "Train new mentors to prepare them for mentoring during the spring semester",
-        "Communicating effectively with students"
+        "Mentoring 6th-12th graders on basic web development skills like HTML, CSS, and JS every Saturday during the academic spring semesters.",
+        "Delivered interactive lectures and coding workshops to spark interest in students for computer science",
+        "Helped over 20+ students build their digital literacy skills and passion for web development"
       ]
     },
     {
@@ -103,6 +103,12 @@
       "awarder": "University of Hawaii at Manoa",
       "summary": "Merit Scholarship awarded to recognize incoming freshmen students enrolling in UH Manoa with a very strong academic high school record."
     },
+    {
+      "title": "Alwine & Jesse Doyle Scholarship ",
+      "date": "May 2025 - July 2025",
+      "awarder": "University of Hawaii at Manoa College of Arts, Languages, and Letters",
+      "summary": "Awarded to students who want to earn credits in one of the languages taught in the Department of Languages & Literatures of Europe & the Americas (French, German, Italian, Portuguese, Russian, and Spanish) at an accredited university in Europe"
+    }
   ],
   "references": [
     {
