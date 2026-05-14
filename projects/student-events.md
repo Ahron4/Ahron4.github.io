@@ -13,7 +13,7 @@ labels:
 summary: "A centralized bulletin board for the UH Community"
 ---
 
-<div class="d-flex justify-content-center gap-3 p-4">
+<div class="d-flex flex-wrap justify-content-center gap-3 p-4">
   <img width="600px" height="400px" src="../img/student-events/intro.png" class="img-thumbnail" >
   <img width="600px" height="400px" src="../img/student-events/admin.png" class="img-thumbnail" >
   <img width="600px" height="400px" src="../img/student-events/features.png" class="img-thumbnail" >
